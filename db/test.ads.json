@@ -1,0 +1,17 @@
+[
+  {
+    "_id": {
+      "$oid": "647a0b6c385510c52a8beacf"
+    },
+    "name": "AD1",
+    "value": 1,
+    "path": "/ads/ad1.mp4",
+    "__v": 6,
+    "thumbnail": "ads_thumbnails/ad1_thumbnail.jpeg",
+    "blank": "https://google.com",
+    "time": 9,
+    "website": "RGG",
+    "views": 0,
+    "viewDates": []
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "_id": {
+      "$oid": "64c83967f87c815d166adb24"
+    },
+    "title": "Lorem Ipsum",
+    "description": "Phasellus ac neque arcu. Phasellus sed ante mauris. Sed in tellus feugiat, consectetur sem eget, molestie ex. Donec quis massa id erat mattis tincidunt. Curabitur congue massa sed pellentesque tempor. Ut eget neque eleifend, ultrices lorem sit amet, euismod ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse potenti. Maecenas nec nisi convallis, auctor purus eget, placerat velit.",
+    "serverLinkMiniature": "videos/video01/miniature.webp",
+    "linkPreview": "videos/video01/short_480p.mp4",
+    "linkShort": "videos/video01/thumbnail.mp4",
+    "linkFull": "videos/video01/full_1080p.mp4",
+    "publishingDate": {
+      "$date": "2023-07-31T22:44:55.539Z"
+    },
+    "categories": [
+      {
+        "category": {
+          "$oid": "64ac70ba183b13b8d12d50b8"
+        },
+        "_id": {
+          "$oid": "64c83967f87c815d166adb25"
+        }
+      },
+      {
+        "category": {
+          "$oid": "64ad88b1bfb2231f835ec8a7"
+        },
+        "_id": {
+          "$oid": "64c83967f87c815d166adb26"
+        }
+      }
+    ],
+    "models": [
+      {
+        "model": {
+          "$oid": "64516807d5e3f31f94517dd4"
+        },
+        "_id": {
+          "$oid": "64c83967f87c815d166adb27"
+        }
+      },
+      {
+        "model": {
+          "$oid": "64516dc79708548f9b4ce548"
+        },
+        "_id": {
+          "$oid": "64c83967f87c815d166adb28"
+        }
+      }
+    ],
+    "quality": 1080,
+    "duration": 1149.4483,
+    "views": 235,
+    "likes": 31,
+    "dislikes": 4,
+    "price": 2,
+    "website": "RGG",
+    "status": "public",
+    "compressed480": "videos/video01/compressed_480p.mp4",
+    "compressed720": "videos/video01/compressed_720p.mp4",
+    "launchDate": {
+      "$date": "2023-08-04T21:00:00.000Z"
+    },
+    "__v": 0
+  }
+]

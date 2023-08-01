@@ -1,0 +1,24 @@
+[
+  {
+    "_id": {
+      "$oid": "64a74e514c0e7be397a41dfc"
+    },
+    "name": "code1",
+    "value": 20,
+    "expirationDate": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64920c641e413bdb432045e3"
+    },
+    "name": "ADMIN1000",
+    "value": 1000,
+    "expirationDate": {
+      "$date": "2023-08-13T00:00:00.000Z"
+    },
+    "__v": 0
+  }
+]

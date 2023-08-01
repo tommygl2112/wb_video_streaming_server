@@ -1,0 +1,20 @@
+[
+  {
+    "_id": {
+      "$oid": "64ac70ba183b13b8d12d50b8"
+    },
+    "name": "Category1",
+    "miniature": "categories/miniature.jpeg",
+    "__v": 0,
+    "website": "RGG"
+  },
+  {
+    "_id": {
+      "$oid": "64ad88b1bfb2231f835ec8a7"
+    },
+    "name": "Category2",
+    "miniature": "categories/miniature.jpeg",
+    "__v": 0,
+    "website": "RGG"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "_id": {
+      "$oid": "64516807d5e3f31f94517dd4"
+    },
+    "name": "Actor1",
+    "miniature": "actors/actor01/miniature.webp",
+    "description": "Phasellus ac neque arcu. Phasellus sed ante mauris. Sed in tellus feugiat, consectetur sem eget, molestie ex. Donec quis massa id erat mattis tincidunt. Curabitur congue massa sed pellentesque tempor. Ut eget neque eleifend, ultrices lorem sit amet, euismod ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse potenti. Maecenas nec nisi convallis, auctor purus eget, placerat velit.",
+    "background": "actors/actor01/background.webp",
+    "website": "RGG"
+  },
+  {
+    "_id": {
+      "$oid": "64516dc79708548f9b4ce548"
+    },
+    "name": "Actor2",
+    "miniature": "actors/actor02/miniature.webp",
+    "description": "Phasellus ac neque arcu. Phasellus sed ante mauris. Sed in tellus feugiat, consectetur sem eget, molestie ex. Donec quis massa id erat mattis tincidunt. Curabitur congue massa sed pellentesque tempor. Ut eget neque eleifend, ultrices lorem sit amet, euismod ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse potenti. Maecenas nec nisi convallis, auctor purus eget, placerat velit.",
+    "background": "actors/actor02/background.webp",
+    "website": "RGG"
+  }
+]
